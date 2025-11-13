@@ -1,0 +1,9 @@
+====================
+     13-11-2025
+=====================
+Device side fixeup 
+========================
+- Sync latest tree changes
+- OTA Support
+- Some vendor.prop fixes
+- Added dynamic refresh rate to refresh rate selector
