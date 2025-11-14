@@ -1,9 +1,14 @@
 ====================
      13-11-2025
 =====================
-Device side fixeup 
-========================
-- Sync latest tree changes
-- OTA Support
-- Some vendor.prop fixes
-- Added dynamic refresh rate to refresh rate selector
+• OTA Support
+• Some vendor.prop fixes
+• Added dynamic refresh rate to refresh rate selector
+====================
+     10-11-2025
+=====================
+• Synced to latest tree changes
+• Fix flickering on UI
+• Estimated time for full charge fixed (Lockscreen & Settings)
+• A custom implementation for the refresh rate was added within Xiaomi Parts (60Hz, 90Hz, 120Hz).
+• Spanish translations added for Xiaomi Parts, Dolby and GameBar ;)
