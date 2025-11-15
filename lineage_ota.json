@@ -1,0 +1,13 @@
+{
+"response": [
+{
+"datetime": 1760400000,
+"filename": "lineage-22.2-20251014-nightly-raven-signed.zip",
+"id": "039472158531dce73b04185e029ae9a9629068ed358e85470406efcd496b72f1",
+"romtype": "nightly",
+"size": 1314647262,
+"url": "https://mirrorbits.lineageos.org/full/raven/20251014/lineage-22.2-20251014-nightly-raven-signed.zip",
+"version": "22.2"
+}
+]
+}
