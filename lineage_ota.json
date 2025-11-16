@@ -1,12 +1,12 @@
 {
 "response": [
 {
-"datetime": 1760400000,
-"filename": "lineage-22.2-20251014-nightly-raven-signed.zip",
-"id": "039472158531dce73b04185e029ae9a9629068ed358e85470406efcd496b72f1",
-"romtype": "nightly",
-"size": 1314647262,
-"url": "https://mirrorbits.lineageos.org/full/raven/20251014/lineage-22.2-20251014-nightly-raven-signed.zip",
+"datetime": 1763265686,
+"filename": "lineage-22.2-20251116-UNOFFICIAL-rodin.zip",
+"id": "2402e6b7ce60f1c46078a87c1e26b0b1d7dca9784c4e339ad54e6b9059e56fc9",
+"romtype": "UNOFFICIAL",
+"size": 2058102545,
+"url": "https://sourceforge.net/projects/mrz3t4-roms/files/lineage/lineage-22.2-20251116-UNOFFICIAL-rodin.zip/download",
 "version": "22.2"
 }
 ]
