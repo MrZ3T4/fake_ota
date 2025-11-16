@@ -1,1 +1,9 @@
 Changelog
+==============
+16-11-2025
+==============
+• Integrated OTA support.
+• Refresh Rate Selector: Added Dynamic option.
+• Auto-Brightness: Smoother transitions.
+• Fixed bug where brightness would drop to minimum upon unlocking.
+==============
