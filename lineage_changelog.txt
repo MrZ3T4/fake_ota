@@ -1,5 +1,14 @@
 Changelog
 ==============
+20-11-2025
+==============
+• November Security Patch
+• Reduce FOD placement
+• Add secure NFC functionality
+• Increase keyguard bottom text
+• Some other things
+
+==============
 16-11-2025
 ==============
 • Integrated OTA support.
