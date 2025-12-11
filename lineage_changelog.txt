@@ -1,5 +1,9 @@
 Changelog
 ==============
+12-12-2025
+==============
+• December Security Patch
+==============
 20-11-2025
 ==============
 • November Security Patch
