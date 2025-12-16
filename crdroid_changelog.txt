@@ -1,10 +1,14 @@
+     13-11-2025
+=====================
+• December Security Patch
 ====================
+
      13-11-2025
 =====================
 • OTA Support
 • Some vendor.prop fixes
 • Added dynamic refresh rate to refresh rate selector
-====================
+
      10-11-2025
 =====================
 • Synced to latest tree changes
