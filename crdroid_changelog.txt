@@ -1,3 +1,8 @@
+     18-12-2025
+=====================
+• Merged upstream UI, thermal, and performance enhancements alongside critical architecture fixes.
+====================
+
      16-12-2025
 =====================
 • December Security Patch
