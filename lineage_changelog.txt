@@ -1,5 +1,12 @@
 Changelog
 
+=====================
+23-12-2025
+=====================
+• Set device default marketname
+• Fix Smooth Display toggle
+• Other fixes
+
 ==============
 19-12-2025
 ==============
