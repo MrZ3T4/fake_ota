@@ -1,3 +1,10 @@
+     23-12-2025
+=====================
+• Set device default marketname
+• Fix Smooth Display toggle
+• Other fixes
+====================
+
      18-12-2025
 =====================
 • Merged upstream UI, thermal, and performance enhancements alongside critical architecture fixes.
