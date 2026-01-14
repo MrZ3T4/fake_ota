@@ -1,3 +1,11 @@
+13/01/2026
+>>>>>>>>>>>>>>>>
+- Synced to latest tree changes
+- Only use mtk_bessound instead misound
+- Added spanish translations
+- Disabling automatic WB
+- Minor changes & improvements
+
 08/01/2026
 >>>>>>>>>>>>>>>>
 🚩 Initial build
